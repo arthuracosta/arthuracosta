@@ -1,10 +1,10 @@
-# Olá! Eu sou o Arthur Costa!
+## Olá! Eu sou o Arthur Costa!
 * Analista de segurança da informação
 * Em transição de carreira para Devops/Cloud
 
 ![arthurcosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurcosta&show_icons=true&theme=prussian)
 
-## Rede social
+<p align="left">Rede social</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-anselmo-da-costa/)
 
