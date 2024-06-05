@@ -1,4 +1,6 @@
-## Olá! Eu sou o Arthur Costa!
+## Olá rede!
+<p align="left">Eu sou o Arthur Costa</p>
+
 * Analista de segurança da informação
 * Em transição de carreira para Devops/Cloud
 
