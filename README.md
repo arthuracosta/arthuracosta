@@ -4,7 +4,7 @@
 * Analista de segurança da informação
 * Em transição de carreira para Devops/Cloud
 
-![arthurcosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuracosta&show_icons=true&theme=prussian)
+![arthurcosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuracosta&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
 
 <p align="left">Rede social</p>
 
